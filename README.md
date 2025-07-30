@@ -23,7 +23,7 @@ Tudo isso utilizando JavaScript com Node.js no terminal!
 - [Node.js](https://nodejs.org/)
 - [qrcode](https://www.npmjs.com/package/qrcode) – geração de QR Codes
 - [readline](https://nodejs.org/api/readline.html) – entrada de dados no terminal
-- [crypto](https://nodejs.org/api/crypto.html) – geração de senhas seguras
+
 
 ---
 
